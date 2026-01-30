@@ -1,7 +1,7 @@
 theme: just-the-docs
 title: Testing Insights
 description: Articles on Automation, Testing, DevOps and AI.
-url: "https://github.com/TapanPatra.github.io"
+url: "https://TapanPatra.github.io"
 baseurl: "/testing-insights"
 author: Tapan Kumar Patra
 just_the_docs:
